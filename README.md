@@ -51,13 +51,12 @@ Results
 
 Logistic Regression achieved the best performance with:
 
+Logistic Regression:
 Accuracy: 0.73
-
-Precision: 0.76
-
-Recall: 0.67
-
-F1 Score: 0.71
+Precision: 0.75
+Recall: 0.66
+F1 Score: 0.70
+AUC-ROC: 0.79
 
 AUC-ROC: 0.80
 
