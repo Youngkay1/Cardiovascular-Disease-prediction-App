@@ -6,7 +6,7 @@ import joblib
 # Load the saved model
 model = joblib.load("best_model_lr.pkl")
 
-st.title("🫀 Cardiovascular Disease Prediction App")
+st.title("Cardiovascular Disease Prediction App")
 st.write("Fill in the patient details below to predict the risk of cardiovascular disease.")
 
 st.markdown("""
