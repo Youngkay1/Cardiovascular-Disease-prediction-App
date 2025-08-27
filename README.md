@@ -58,8 +58,6 @@ Recall: 0.66
 F1 Score: 0.70
 AUC-ROC: 0.79
 
-AUC-ROC: 0.80
-
 License
 
 This project is for educational and research purposes only.
